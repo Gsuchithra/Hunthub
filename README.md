@@ -1,5 +1,4 @@
 ![hunthub](https://github.com/Gsuchithra/chromium/assets/172963880/16dc5c13-bab8-42cf-88a7-13eb9cb39f81)
- HuntHub
 Hunthub is an open-source browser project that aims to build a safer, faster, and more stable way for all users to experience the web.
 
 The project's web site is https://www.hunthub.org.
